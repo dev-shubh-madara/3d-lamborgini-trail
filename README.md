@@ -35,7 +35,7 @@ A stunning **Awwwards-level scrollytelling** landing page where the Lamborghini 
 
 ```bash
 # Clone this repo
-git clone https://github.com/SuperShary/Lamborgini.git
+git clone https://github.com/3d-lamborgini-trail/Lamborgini.git
 
 # Install dependencies
 cd Lamborgini
@@ -186,14 +186,6 @@ floating components, black background, studio lighting,
 
 ---
 
-## 🔗 Connect with SuperShary
-
-- 📺 **YouTube**: [@SuperSharyG63](https://www.youtube.com/@SuperSharyG63)
-- 🐦 **Twitter/X**: [@SuperShary](https://twitter.com/SuperShary)
-- 💼 **LinkedIn**: [SuperShary](https://linkedin.com/in/supershary)
-
----
-
 ## ⭐ Support This Project
 
 If this helped you build something awesome:
@@ -210,4 +202,4 @@ MIT License - Use it for your projects, portfolios, or clients!
 
 ---
 
-Made with 🖤 by **SuperShary** | Powered by AI ✨
+Made with 🖤 by **Shubh** | Powered by AI ✨
