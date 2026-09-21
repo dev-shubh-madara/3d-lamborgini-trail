@@ -12,13 +12,6 @@ A stunning **Awwwards-level scrollytelling** landing page where the Lamborghini 
 
 ---
 
-## 🎬 Watch the Tutorial
-
-[![SuperShary YouTube](https://img.shields.io/badge/YouTube-SuperShary-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@SuperSharyG63)
-
-**Subscribe for more AI + Web Development tutorials!**
-
----
 
 ## ✨ Features
 
